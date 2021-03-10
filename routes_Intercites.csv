@@ -1,0 +1,10 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+OCESN-1289990,OCESN,555,Paris-Toulouse-Cerbère/Latour de Carol/Rodez/Albi,,2,,,
+OCESN-16628,OCESN,560,Paris-Limoges-Toulouse,,2,,,
+OCESN-645663,OCESN,722,Paris-Clermont Fd,,2,,,
+OCESN-645666,OCESN,723,Clermont Fd-Béziers,,2,,,
+OCESN-87481002-87485003,OCEdefault,0591,Nantes - La Rochelle,,2,,,
+OCESN-87481002-87722025,OCEdefault,0121,Nantes - Lyon Perrache,,2,,,
+OCESN-87547000-87742007,OCEdefault,0770,Paris Austerlitz - Modane,,2,,,
+OCESN-87611004-87673004,OCEdefault,0552,Toulouse Matabiau - Bayonne,,2,,,
+OCESN-87751008-87611004,OCEdefault,0180,Marseille Saint-Charles - Toulouse Matabiau,,2,,,
